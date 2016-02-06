@@ -1,0 +1,103 @@
+.logo-sentient img {
+	width: 190px;
+}
+.logo-sentient {
+	padding-left: 70px;
+	width: 190px;
+}	
+nav ul {
+    padding-top: 25px;
+}
+nav ul a {
+	text-decoration: none;
+	margin-left: 15px;
+	margin-right: 23px;
+    color: #606060;
+    font-family: Arial;
+}
+.maintext h1 {
+	font-family: Arial;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+.backg {
+	padding-top: 12%;
+	height: 500px;
+	background-size: 1440px 500px;
+	background-image: url(../img/hero-image.jpg);
+}
+.arrow {
+	padding-left: 48%;
+	padding-top: 13%;
+}
+.infotext p {
+	color: black;
+	font-family: Arial;
+}
+.smallfont {
+	width: 900px;
+}
+.smallfont p {
+	font-size: 25px;
+	text-align: center;
+	padding-bottom: 10%;
+    padding-left: 59px;
+}
+.biggerfont {
+	width: 800px;
+}
+.biggerfont p{
+	font-size: 30px;
+    text-align: center;
+    padding-left: 140px;
+    padding-bottom: 10%;
+}
+.simbox {
+	width: 273px;
+	padding: 10% 7%;
+	height: 315px;
+	border: solid #D4D4D4 2px;
+	text-align: center;
+    font-family: Arial;
+}   
+.simbox h1 {
+    padding-top: 10%;
+    padding-bottom: 8%;
+}
+.formsection {
+	padding-bottom: 12%;
+	background-size: 1475px 860px;
+	background-repeat: no-repeat;
+	background-position: 85% -10px;
+	background-image: url("../img/background-contac-us.jpg");
+}
+.formsection h1 {
+	color: white;
+	font-family: Arial;
+	font-size: 40px;
+	text-align: center;
+}
+.formsection h3 {
+	color: white;
+	font-family: Arial;
+	font-size: 30px;
+	text-align: center;
+}
+form input {
+	text-align: center;
+	width: 503px;
+	height: 60px;
+	font-size: 33px;
+	margin-left: 23%;
+}
+form button {
+	border: #179AD6;
+	background-color: #179AD6;
+	color: white;
+	border-radius: 5px;
+	height: 60px;
+	font-size: 33px;
+	width: 250px;
+	margin-left: 36%;
+}
